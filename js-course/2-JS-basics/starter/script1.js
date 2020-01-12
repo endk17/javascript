@@ -22,4 +22,4 @@ isMarried = "false"
 console.log(firstName + ' is a ' +  age + ' year old ' + job + ' . ' + 'Is this person married? ' + ' : ' + isMarried);
 
 // type mutation
-var age = "thirty three"
+var ag = "thirty three"
